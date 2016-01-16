@@ -1,0 +1,52 @@
+#! /bin/sh
+
+### BEGIN INIT INFO
+# Provides:          meek-server
+# Required-Start:    $network $syslog $remote_fs
+# Required-Stop:     $network $syslog $remote_fs
+# Should-Start:
+# Should-Stop:
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Starts the meek-server
+### END INIT INFO
+
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+DAEMON_ROOT=/opt/PsiphonV/go/meek-server
+DAEMON=$DAEMON_ROOT/meek-server
+NAME=meek-server
+DESC="meek server"
+test -x $DAEMON || exit 0
+
+PIDFILE=/var/run/$NAME.pid
+DAEMON_OPTS="-config=/etc/meek-server.json"
+
+set -e
+
+case "$1" in
+  start)
+        echo -n "Starting $DESC: "
+        ulimit -n 64000
+        export GOMAXPROCS=`grep processor /proc/cpuinfo | wc -l`
+        start-stop-daemon -S -q -p $PIDFILE -x $DAEMON -d $DAEMON_ROOT -b -m -- $DAEMON_OPTS
+        echo "$NAME."
+        ;;
+  stop)
+        echo -n "Stopping $DESC: "
+        start-stop-daemon -K -q -p $PIDFILE --oknodo
+        echo "$NAME."
+        ;;
+  restart)
+        $0 stop
+        sleep 1
+        $0 start
+        ;;
+  *)
+        N=/etc/init.d/$NAME
+        echo "Usage: $N {start|stop|restart}" >&2
+        exit 1
+        ;;
+esac
+
+exit 0
+

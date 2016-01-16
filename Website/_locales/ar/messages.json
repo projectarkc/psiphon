@@ -1,0 +1,1298 @@
+{
+    "index-hero-subtext": {
+        "message": "ما وراء الحدود ",
+        "description": "Slogan text that appears below the hero image on the main page. Should be in all lower-case, as it will be shown with 'small caps' -- but if that doesn't make sense in your language, feel free to use mixed case."
+    },
+    "page-keyword-source-code": {
+        "message": "شفرة المصدر ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-autoproxy-question-toc": {
+        "message": "إنني أستخدم وكيل تلقائي AutoProxy . كيف بإمكاني إعلام برنامج سايفون Psiphon لبرامج الويندوز Windows كي لا يقوم بتشكيل وترتيب إعدادات الوكيل Proxy في نظام جهازي؟",
+        "description": ""
+    },
+    "page-keyword-psiphon2": {
+        "message": "سايفون2  ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "privacy-canadian-privacy-commission-link-text": {
+        "message": "مكتب مفوضية الخصوصية الكندي ",
+        "description": ""
+    },
+    "faq-vpn-protocol-question": {
+        "message": "ماهو بروتوكول الشبكة الافتراضية الخاصة (vpn ) المستخدم من قبل سايفون لنظام الويندوز؟ ولماذا لا استطيع انا الاتصال والربط مع الشبكة؟",
+        "description": ""
+    },
+    "user-guide-android-image-3-annotation-2": {
+        "message": "التحويل بين الصفحات المفتوحة",
+        "description": "annotation for an image of the Psiphon built-in browser, pointing to the button that switches between open tabs"
+    },
+    "privacy-bulletin-entry-item-head-how-many-users": {
+        "message": "كم عدد المستخدمين المتأثرين ",
+        "description": ""
+    },
+    "privacy-bulletin-entry-item-head-what-data": {
+        "message": "أي بيانات مستخدم سيتم جمعها؟",
+        "description": ""
+    },
+    "faq-proxy-all-question": {
+        "message": "هل يقوم برنامج سايفون Psiphon لبرامج الويندوز Windows بخدمة جميع اتصالاتي على الإنترنت كحلقة وصل؟ ",
+        "description": ""
+    },
+    "user-guide-android-para-1": {
+        "message": "اضغط على الرابط الخاص ب APK من داخل البريد الإلكتروني الخاص بأندرويد أو من داخل المتصفح للبدء بعملية التنصيب.\n. (إذا كنت تحصل على خطأ قد تحتاج إلى <a href=\"./faq.html#android-enable-sideloading\">تمكين التحميل  الجانبي  sideloading</a>.)",
+        "description": ""
+    },
+    "about-contact-head": {
+        "message": "اتصل بنا",
+        "description": ""
+    },
+    "privacy-description": {
+        "message": " سياسة الخصوصية لسايفون ",
+        "description": "description for the Privacy Policy page"
+    },
+    "page-keyword-android": {
+        "message": "أندرويد ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "contact-email-para": {
+        "message": "بإمكانك مراسلة فريق عمل برنامج سايفون عبر البريد الإلكتروني الآتي: ",
+        "description": ""
+    },
+    "index-hero-alt": {
+        "message": "برنامج سايفون Psiphon",
+        "description": "Alt text for hero image that appears on main page and says 'Psiphon' in a stylized font"
+    },
+    "faq-android-enable-sideloading-image-alt": {
+        "message": "لقطة شاشة للتحميلات الجانبية ",
+        "description": "alt text for an image"
+    },
+    "page-keyword-proxy": {
+        "message": "وكيل (بروكسي)",
+        "description": "web page meta keyword used for SEO"
+    },
+    "download-list-join": {
+        "message": "انضم إلى قائمتنا البريدية للحصول على أهم الإعلانات والمعلومات والنصائح الأمنية المتعلقة بالبرنامج: <a href=\"https://groups.google.com/group/psiphon3\" target=\"_blank\">\n ",
+        "description": ""
+    },
+    "about-get-latest-info-para-1-developers-list": {
+        "message": "فريق تطوير برنامج سايفون",
+        "description": "text for link to the Psiphon Developers mailing list"
+    },
+    "about-who-we-are-software-development-para-2": {
+        "message": "ونحن نعلم أيضا أنه من المهم بنفس القدر أن نعمل بجد لمستخدمينا وراء الكواليس. نحن نقوم بحماية مستخدمينا والبيانات الخاصة بهم إلى أقصى درجة ممكنة. قدلا يلاحظ المستخدمون التدابير المأخوذة لضمان أمن بياناتهم الخصوصية ، ولكن نحن نعرف أنهم يقدرون ذلك.",
+        "description": ""
+    },
+    "privacy-information-collected-websites-google-analytics-para-2": {
+        "message": "Google Analytics تزرع ملف تعريف ارتباط دائم على متصفحك لتعريفك المرة القادمة التي تزور الموقع كمستخدم فريد، ولكن ملف تعريف الارتباط هذا لا يمكن إستعماله إلا من قبل غوغل، والبيانات المجموعة لا يمكن تغييرها أو إسترجاعها من مجالات أخرى .",
+        "description": ""
+    },
+    "open-source-description": {
+        "message": "سايفون هو برنامج تجاوز رقابة ذو مصدر مفتوح ",
+        "description": ""
+    },
+    "privacy-para-2": {
+        "message": "للمزيد من المعلومات حول قوانين الخصوصية للحكومة الكندية ومقاطعة أونتاريو يرجى الإطلاع على: ",
+        "description": ""
+    },
+    "main-gets-you-there-safely-head-1": {
+        "message": "...وإيصالك إليها بأمان.",
+        "description": ""
+    },
+    "privacy-title": {
+        "message": "سياسة الخصوصية",
+        "description": "page title for the Privacy Policy page"
+    },
+    "faq-information-collected-answer-para-12": {
+        "message": "الرد التلقائي لبريدنا الإلكتروني مستضاف على غيمة أمازون Amazon EC2 cloud. نبعث بردين تلقائيين لكل طلب، ولواحد من هؤلاء الردين نستخدم Amazon SES. هذا يعني أن أن بإمكان أمازون رؤية البريد الإلكتروني الذي تبعثه وردنا عليه.",
+        "description": ""
+    },
+    "page-keyword-psiphon1": {
+        "message": "سايفون 1 ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "main-gets-you-there-safely-para-1": {
+        "message": "ما أجمل حرية تصفح الإنترنت وما أقبح سرقة سجلات التتبع Cookies والحسابات الإلكترونية. برنامج سايفون يفتح لك مسارا آمنا في الإنترنت مهما كانت الشبكة التي تستخدمها. ",
+        "description": ""
+    },
+    "user-guide-android-image-3-alt": {
+        "message": "صورة توضيحية للأجزاء المختلفة من متصفح Web Browser برنامج سايفون Psiphon لأجهزة الأندرويد Android",
+        "description": "alt text for an image"
+    },
+    "page-keyword-open-source": {
+        "message": "مصدر مفتوح ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "license-personal-or-specified-use-header": {
+        "message": "استخدام شخصي أو استخدام محدد ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-6": {
+        "message": "عدد مرات التصفح (صفحة كاملة لمحدد مواقع المعلومات URLs بالنسبة للمواقع الراعية)",
+        "description": ""
+    },
+    "user-guide-android-ui-logs-image-alt": {
+        "message": "الصورة توضح برنامج سايفون  وهو يعمل على برامج الأندرويد على لوحة السجلات",
+        "description": "alt text for an image"
+    },
+    "license-terms-of-use-header": {
+        "message": "شروط الإستخدام",
+        "description": ""
+    },
+    "faq-android-enable-sideloading-question": {
+        "message": "كيف أمكن التحميل الجانبي على أندرويد؟ ",
+        "description": ""
+    },
+    "privacy-information-collected-websites-google-analytics-para-1": {
+        "message": "نستعمل Google Analytics على بعض من مواقعنا لتجميع معلومات حول الإستخدام. المعلومات المجموعة من قبل Google Analytics ستستعمل فقط للتحليلات الإحصائية المرتبطة بسلوك تصفحك على الموقع المتواجد فيه فقط. المعلومات التي ننالها من غوغل لا تكشف الهوية، ولا تجمع مع معلومات من مصادر أخرى ليخلق معلومات لكشف الهوية.",
+        "description": ""
+    },
+    "faq-port-restrictions-question": {
+        "message": "هل هنالك أيً تحديد أو تقييد على نظام بروتوكول الشبكة الإفتراضية الخاصة VPN؟ لماذا لا أستطيع إرسال رسالة إلكترونية باستخدام عميل بريدي الإلكتروني على نظام الشبكة الإفتراضية الخاصة VPN؟",
+        "description": ""
+    },
+    "faq-ssh-plus-question": {
+        "message": "ما هو نظام البروتوكول  الذي يستعمله مسار  سايفون الآمن ؟",
+        "description": ""
+    },
+    "about-who-we-are-software-development-para-1": {
+        "message": "لدى مؤسسة سايفون، نحن نريد من مستخدمينا إمتلاك خبرة جيدة. وهذا يعني أنه يجب على برامجنا أن تكون سهلة الاستخدام، و يتوجب على شبكتنا أن تكون سريعة، وكلا البرامج و الشبكات بحاجة إلى أن يكونا في أعلى درجات الإستقرار. هذا من الصعب بلوغه خاصة إذا توجب من البرامج العمل في عدة أنضمة و باستعمال لغات برمجة متعددة.",
+        "description": ""
+    },
+    "sponsor-nav-title": {
+        "message": "الراعي",
+        "description": "Navigation text for the Sponsorship page"
+    },
+    "download-android-amazon-description": {
+        "message": "ملائم وصالح للعمل مع برامج أندرويد Android 2.2  وما هو أحدث. خيارنظام (الجهاز بأكمله)  يتطلب أن يكون برنامج أندرويد Android 4.0  وما هو أحدث من ذلك؛ أو  <a href=\"https://en.wikipedia.org/wiki/Android_rooting\" target=\"_blank\">حساب مستخدم جذري </a>.",
+        "description": ""
+    },
+    "license-nav-title": {
+        "message": "الترخيص",
+        "description": ""
+    },
+    "user-guide-android-ui-status-image-alt": {
+        "message": "صورة توضح برنامج سايفون وهو يعمل على أنظمة الأندرويد على لوحة إظهار حالة التشغيل",
+        "description": "alt text for an image"
+    },
+    "faq-vpn-slow-question": {
+        "message": "باستطاعتي الإتصال والربط ببرنامج سايفون لبرامج ويندوز Windows  على نظام الشبكة الإفتراضية الخاصة٬ ولكن لماذا يعمل ببطء شديد؟ \nأحيانا بعض صفحات الإنترنت لا تقوم بالتحميل إطلاقا. ",
+        "description": ""
+    },
+    "privacy-meta-title": {
+        "message": "سياسة الخصوصية",
+        "description": "meta title for the Privacy Policy page"
+    },
+    "privacy-bulletin-entry-item-head-how-long-retained": {
+        "message": "كم من الوقت سنحتفظ بالمعلومات؟",
+        "description": ""
+    },
+    "faq-vpn-slow-answer-para-1": {
+        "message": "بعض أجهزة الشبكات أو وصلات الإنترنت قد تسبب مشاكل في عمل L2TP/IPSec والذي هو بروتوكول يُستخدم من قبل برنامج سايفون Psiphon على الشبكة الإفتراضية الخاصة VPN. حاول تعطيل نمط ال VPN. ",
+        "description": ""
+    },
+    "privacy-bulletin-entry-item-head-when-doing": {
+        "message": "متى نعمل ذلك؟",
+        "description": ""
+    },
+    "faq-authentic-android-answer-para-2": {
+        "message": "يمكن التحقق من APK بأحد الطريقتين. 1) استخلاص الشهادة من الأرشيف والتحقق من أن بصمتها متطابقة مع القيمة الواردة أعلاه و 2) التحقق من أن ملف APK ممضي مع الشهادة باستخدام أدوات أوامر يونيكس أو جافا:",
+        "description": ""
+    },
+    "page-keyword-psiphon3": {
+        "message": "سايفون 3 ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "about-get-latest-info-para-1-announcements-list": {
+        "message": "إعلانات برنامج سايفون",
+        "description": "text for link to the Psiphon Announcements mailing list"
+    },
+    "privacy-bulletin-entry-2-what-doing": {
+        "message": "نحن نحدث  <a href=\"privacy.html\">سياسة الخصوصية</a>. هذا يشمل الجواب للسؤال المتكرر: أي بيانات يجمعها برنامج سايفون؟.",
+        "description": ""
+    },
+    "about-description": {
+        "message": "تعرف على فريق العمل وراء برنامج سايفون لتجاوز الرقابة ",
+        "description": "description for the About page"
+    },
+    "faq-information-collected-answer-para-7-item-1": {
+        "message": "اصدار نظام التشغيل",
+        "description": ""
+    },
+    "privacy-information-collected-s3-logging-head": {
+        "message": "تسجيل تخزين الوصول",
+        "description": "Sub-heading for section describing use of logging access to data storage (aka S3 bucket logging). The way to read this is 'creation of logs for user accesses to data storage'. Psiphon 'stores' websites, downloads, and upgrades (the 'data') in Amazon S3 (the 'storage'). Users 'access' the data storage. And, somtimes, we 'log' those accesses. (For example, if we suspect attackers are accessing the storage, or if it seems the storage is blocked by a country.)"
+    },
+    "faq-connection-failed-question": {
+        "message": "لماذا تظهر لديً هذه الرسالة \"فشل عملية الإتصال Connection Failed\" مرة تلو الأخرى؟  ",
+        "description": ""
+    },
+    "faq-information-collected-answer-head-2": {
+        "message": "النتائج",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-11": {
+        "message": "عندما تبعث لنا بطلب عبر البريد الإلكتروني، يمكننا أن نرى عنوان بريدك الإلكتروني. أثناء معالجة هذا البريد سيحفظ على قرص خادم بريدك الإلكتروني، ومن ثم يمحى مباشرة بعض المعالجة (في غضون ثوان). لا نسمح بحفظ بريدك الإلكتروني في ملف سجلات النظام.   ",
+        "description": ""
+    },
+    "faq-authentic-windows-question": {
+        "message": "هل برنامج سايفون Psiphon لبرامج ويندوز الذي قمت بتحميله أصلي وموثوق به؟",
+        "description": ""
+    },
+    "faq-ip-change-answer-para-1": {
+        "message": "عميلك لبرنامج سايفون سيقوم تلقائيا بالبحث واكتشاف خوادم  Servers جديدة للبرنامج. عند عدم توفر آخر إصدار لخادم البرنامج Server فإنًه بالإمكان استخدام خادم Server آخر بدلا عنه. ",
+        "description": ""
+    },
+    "sponsor-title": {
+        "message": "ساهم في البرنامج",
+        "description": "Page title for the Sponsorship page"
+    },
+    "about-who-we-are-partners-para-1": {
+        "message": "يعمل سايفون عن كثب مع مجموعات مختلفة لتقديم الدعم والشورة للأشخاص التي تستخدم تطبيق سايفون أينما كانوا. برنامجنا مترجم إلى 15 لغة، ويتم إضافة المزيد من الترجمات لكل تطبيقاتنا من خلال <a href=\"https://www.transifex.com/projects/p/Psiphon3/\" target=\"_blank\">Transifex</a> و هذا كجزء من Localization Lab hub.",
+        "description": ""
+    },
+    "about-who-we-are-exec-team-para-1": {
+        "message": "مايكل هول هو المدير التنفيذي للعمليات، وكان مع سايفون منذ البداية، عندما بدأت كمشروع في مختبر المواطن بجامعة تورنتو. قاد منذ ذلك جهدا لتطوير البرمجيات و ساعد على دفع الابتكار الذي سمح لسايفون من البقاء في المراتب الأولى في إختصاصه.",
+        "description": ""
+    },
+    "faq-authentic-windows-answer-para-2017": {
+        "message": "بصمة SHA1 للترخيص الصالح لفترة 2014-05-08 إلى 2017-09-06 هي:",
+        "description": ""
+    },
+    "faq-information-collected-answer-redirect": {
+        "message": "لطفا إطلع على  <a href=\"privacy.html\">سياسة الخصوصية </a> لمعرفة ما هي البيانات التي نجمعها.",
+        "description": "This is the FAQ answer to the question 'What info does Psiphon collect?' The user needs to go to a separate page to see the full answer."
+    },
+    "donate-heading": {
+        "message": "ساهم لبرنامج سايفون ",
+        "description": "The heading of the page section that shows the donation buttons"
+    },
+    "user-guide-meta-title": {
+        "message": "كيف تستعمل سايفون على الموبايل والويندوز ",
+        "description": "meta title for the user guide page"
+    },
+    "faq-autoproxy-answer-para-1": {
+        "message": "أنقر على زر التشغيل Run ثم اكتب >regedit< لفتح محرر سجل النظام Registry Editor. إبحث عن >HKEY_CURRENT_USER\\Software\\Psiphon3< وافتحه٬ وفي الجانب الأيمن سترى >UserSkipProxySettings< إعدادات تخطي الوكيل. قم بضبط هذه القيمة على >1< ولن يقوم برنامج سايفون  Psiphon بتشكيل إعدادات النظام للوكيل System Proxy Settings تلقائيا.",
+        "description": ""
+    },
+    "user-guide-android-head": {
+        "message": "برنامج سايفون Psiphon لأجهزة الأندرويد Android",
+        "description": "heading for the Android section of the User Guide"
+    },
+    "privacy-bulletin-entry-2-title": {
+        "message": "2015-06-01: تحديث سياسة الخصوصية ",
+        "description": ""
+    },
+    "index-description": {
+        "message": "سايفون هو برنامج لتجاوز الرقابة يوفر وصول غير محجوب إلى الإنترنت لنظام  ويندوز ومنصات  الموبايل.",
+        "description": "Page description for the index page"
+    },
+    "faq-title": {
+        "message": "الأسئلة الشائعة ",
+        "description": "title for the FAQ page"
+    },
+    "privacy-information-collected-s3-logging-para-1": {
+        "message": "نستعمل أمازون Amazon S3  لتخزين أصول كملفات مواقع أو قوائم الاكتشاف لسيرفر سايفون. في بعض الأحيان نمكن تسجيل تحميلات هذه الملفات. تحليل هذه التسجيلات يساعدنا في الإجابة على أسئلة كهذه: \"كم عدد المستخدمين الذين  يبدأون ولكن لا يكملون تحميل قائمة إكتشاف السيرفر؟\"، كيف تنقسم البيانات المحملة بين أصول مواقع إكتشاف سيرفر؟\"، و\"هل يقوم مهاجم بمحاولات \"هجمات الحرمان من الخدمة\"  على مواقعنا؟\"",
+        "description": ""
+    },
+    "about-who-we-are-exec-team-head": {
+        "message": "الفريق التنفيذي",
+        "description": ""
+    },
+    "page-keyword-ssh": {
+        "message": "SSH ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-information-collected-answer-para-4": {
+        "message": "يتضمن تسجيل الأحداث الوقت، رمز المنطقه (الآي بي الخاص بالمنطقه)٫ ،وسمات لا يتم من خلالها التعرف بالمستخدم وتتضمن هوية الراعي (التي تحدد من خلال عميل سايفون المستخدم)٫ نسحة العميل، ، ونوع البروتوكول. وبتم تجميع عدد مشاهدات الصفحات وفق الوقت و/أو الجوله قبل تسجيلها.",
+        "description": ""
+    },
+    "page-keyword-blog": {
+        "message": "المدونة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "blog-index-intro": {
+        "message": "شركة سايفون المساهمة Psiphon Inc شركة كندية غالبية أعضاء فريق عملها من الناطقين باللغة الإنجليزية. مما يعني أنً  جميع المعلومات والتعليقات على موقع الشركة على الإنترنت باللغة الإنجليزية. وسيحاول فريق سايفون Psiphon ترجمة التعليقات والمعلومات إلى لغات أخرى قدر استطاعتهم.  ",
+        "description": ""
+    },
+    "about-who-we-are-ops-para-1": {
+        "message": "لدينا عقود سارية المفعول مع العديد من الشركات، بداية من إذاعات دولية واسعة النطاق إلى منظمات حقوق الإنسان الصغيرة العاملة في بلد واحد. فريق العمليات والتوعية يجمع التقارير التي تبين لهم عدد المستخدمين لبرنامج سايفون عن طريق تحليل طرق التوزيع المستعملة.  كما أن فريق العمليات يقوم بدراسة الميول و الأحداث القادمة والتي قد تؤثر على التدفق الحر للمعلومات على شبكة الإنترنت.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-7-list-start": {
+        "message": "ويندوز:",
+        "description": ""
+    },
+    "privacy-bulletin-entry-2-when-doing": {
+        "message": "يعمل بها من تاريخ  2015-06-01T00:00Z.",
+        "description": ""
+    },
+    "alert-body": {
+        "message": "لقد اكتشف فريق سايفون تنكًر أحد البرمجيات الخبيثة Malware بصيغة برنامج سايفون لبرامج ويندوز  Windows القابلة للتنفيذ. وقد تمً توزيع هذه البرمجية الخبيثة Malware بملف يحمل اسم \"pisphone3.zip\" من موقع www.copy.com وقد يكون متوفرا في مصادر أخرى. يحتوي الملف على بيانات رقمية خبيثة  تحمل اسم \"pisphone3.exe\" بمواصفات موضحة كفيروس كامل كالآتي: href=\"https://www.virustotal.com/en/file/54201e181615c7eb18ee5a5ca3a0b7924cf3097ac5214fbee530741b6a6bc3da/analysis/1372262585/\">\nيرجى ملاحظة الخطأ في تهجئة الإسم. فبرنامج الويندوز القابل للتنفيذ  لا يحمل توقيعا إلكترونيا وغير موثًق من قبل شركة سايفون. يجب عدم تشغيل أيً تطبيق تمً تحميله حديثا يحمل اسم سايفون من دون التأكد من وجود التوقيع الإلكتروني عليه كما هو موضح كالآتي: <a href=\"#authentic-windows\">",
+        "description": "Heading of the alert that shows on the main page when there's a security or other concern that needs to be brought to the attention of users"
+    },
+    "faq-information-collected-answer-para-5": {
+        "message": "جميع الإحصاءات يتم تقاسمها مع الرعاة كما يتم تجميعها وفقا للتاريخ ،الداعم و المنطقه.",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-annotation-3": {
+        "message": "البيانات المسلمة عن طريق  عبر برنامج سايفون",
+        "description": "annotation for an image of the Psiphon's statistics view, pointing to the received data amount"
+    },
+    "faq-proxy-all-answer-para-1": {
+        "message": "فقط على مود الشبكة الافتراضية الخاصة VPN: بعد أن يكون هنالك اتصالا يعمل بفعالية ونجاح مع الشبكة الافتراضية الخاصة VPN فإنً جميع الاتصالات والمعلومات والبيانات ستمر من خلال شبكة برنامج سايفون Psiphon. وأما في  حال عدم تمكين مود VPN، فقط  التطبيقات التي تستخدم ال HTTP المحلي ووكيل SOCKS  سيتم تمريرها عبر المسار الآمن.  ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-8": {
+        "message": "عدد طلبات بروتوكول نقل النص التشعبي الآمن HTTPS",
+        "description": ""
+    },
+    "about-who-we-are-para-1": {
+        "message": "سايفون Psiphon Inc هي شركة مقرها في تورنتو كندا, الشركة تقوم بتطوير برامج  ذو مصدر مفتوح  لأنظمة متعددة. هذه البرامج تقوم بمساعدة ما يفوق 3 ملايين شخص في كل أسبوع من تصفح محتويات شبكة الأنترنت. نحن مجموعة هدفها الأساسي تقديم أحسن البرامج الممكنة وتطوير برامج جديدة بانتطام. تنصب جهودنا أ على تلبية رغبات جمهورنا العالمي المتزايد.",
+        "description": ""
+    },
+    "user-guide-windows-para-3": {
+        "message": "ظهور الأيقونة الخضراء يعني نجاح عملية الإتصال بخادم برنامج سايفون. والربط بنظام الشبكة الإفتراضية الخاصة VPN سيجعل جميع الاتصالات والبيانات تمر بشكل تلقائي من خلال مسار برنامج سايفون. ",
+        "description": ""
+    },
+    "license-meta-title": {
+        "message": "اتفاقية ترخيص المستخدم النهائي",
+        "description": ""
+    },
+    "faq-information-collected-question": {
+        "message": "ما هي المعلومات الخاصة بالمستخدم والتي يقوم برنامج سايفون بجمعها؟ ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-7": {
+        "message": "عدد البايتات المنقولة",
+        "description": ""
+    },
+    "privacy-bulletin-title": {
+        "message": "بيانات الخصوصية ",
+        "description": ""
+    },
+    "license-para-2": {
+        "message": "نظام سايفون يشمل كل من البرنامج\" (شفرة المصدر للبرنامج   والتطبيقات المشتقة من هذه الشفرة) و\"الخدمة\" (نظام من وكيل  وبرنامج خادم يكونون وحدة عاملة). برنامج سايفون وشفرة المصدر  <a href=\"https://en.wikipedia.org/wiki/Free_and_open_source_software\" target=\"_blank\">fمجانيين ومن مصدر مفتوح </a> و  <a href=\"https://bitbucket.org/psiphon/psiphon-circumvention-system/src/tip/LICENSE?at=default\" target=\"_blank\">are licensed</a> واقعين تحت نطاق  <a href=\"https://www.gnu.org/copyleft/gpl.html\" target=\"_blank\">GNU إصدار رخصة عامة علنية  3</a>. إستخدام سايفون موجود تحت البنود المنصوص عليها في هذه الصفحة.",
+        "description": "Please modify the Wikipedia link to point to the correct language entry"
+    },
+    "page-keyword-instructions": {
+        "message": "التعليمات ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "page-keyword-developers": {
+        "message": "مطورين ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "user-guide-android-ui-status-image-annotation-3": {
+        "message": "لتشغيل برنامج سايفون على نظام (مسار الجهاز بأكمله) Tunnel Whole Device mode يجب أن يكون جهازك الإصدار الرابع بلس لأنظمة أندرويد +Android 4.0 أو امتلاكك لحساب المستخدم الجذري للجهاز <br><br> هذا الخيار لن يكون متوفرا للذين لا يملكون حساب المستخدم الجذري لأجهزتهم ذات الإصدارات القديمة من أندرويد.  ",
+        "description": "annotation for an image of the Psiphon's status view, pointing to the Tunnel Whole Device checkbox"
+    },
+    "faq-isp-traffic-answer-para-1": {
+        "message": "كل البيانات التي تمر عبر سايفون مشفرة. هذا يعني أن مزود الإنترنت خاصتك لا يستطيع رؤية محتوى حركة المرور على الإنترنت عندك: الصفحات التي تزورها، رسائل الدردشه، تحميلاتك، إلخ.",
+        "description": ""
+    },
+    "faq-root-wdm-answer-para-1": {
+        "message": "Before December 2015 Psiphon for Android had a feature that allowed users with older Android devices (pre-4.0/ICS) to tunnel the whole device if it was rooted. A major update to Psiphon at that time necessitated the removal of that feature.",
+        "description": "This is the first paragraph of a FAQ answer. Previously, users with old Android devices (before Android version 4.0, also known as Ice Cream Sandwich) could still tunnel the whole device if the device was rooted. This functionality was removed in December of 2015. This question/answer tells them about that and what they can do."
+    },
+    "faq-isp-traffic-answer-para-2": {
+        "message": "لكن الرجاء التذكر أن سايفون مصمم ليكون أداة تجاوز رقابة، وليس مصمم  ليكون أداة ضد الرقابة، وليس مصمم خصيصا لأهداف ضد الرقابة. سايفون لا يمنع حفظ تاريخ تصفحك وملفات تعريف الإرتباط على حاسوبك. وفي بعض الأنماط والإعدادات يمكن أن لا تمر كل حركة مرور الإنترنت خاصتك في مسار سايفون الآمن (نفق سايفون) --   يمكن أن يحدث ذلك  مثلا  إذا  كانت إعدادات بروكسي متصفحك مضبوطة خطأ.",
+        "description": ""
+    },
+    "user-guide-windows-para-verify-authentic": {
+        "message": "يجب أولا التأكد من أنً نسختك من برنامج سايفون Psiphon لبرامج ويندوز Windows أصلية.\n<a href=\"./faq.html#authentic-windows\">",
+        "description": ""
+    },
+    "page-keyword-code": {
+        "message": "الشفرة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-vpn-dns-question": {
+        "message": "عندما أكون علي اتصال ببرنامج سايفون Psiphon لبرامج ويندوز على نظام الشبكة الإفتراضية الخاصة VPN لا يتم تحميل أيٌ من صفحات الإنترنت لديْ. وتظهر لديً  رسالة تشير إلى أنً عملية البحث عن المجال Domain قد فشلت.  ",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-annotation-2": {
+        "message": "البيانات المرسلة عن طريق سايفون",
+        "description": "annotation for an image of the Psiphon's statistics view, pointing to the sent data amount"
+    },
+    "what-is-psiphon-body-para-1": {
+        "message": "برنامج سايفون هو أداة صممتها شركة سايفون المساهمة للإلتفاف حول القيود والرقابة على الإنترنت؛ تمً استخدام تقنيات الشبكة الإفتراضية الخاصة VPN وبروتوكول القشرة الآمنة SSH وبروتوكول HTTP Proxy لتمكينك من الدخول على الإنترنت ومحتوياته من دون رقابة أو قيود. سيقوم عميل برنامج سايفون الخاص بك وبشكل تلقائي من التعرف على أيًة نقاط دخول ومنافذ جديدة تتيح لك الدخول على الإنترنت وذلك من أجل مضاعفة فرصك في التغلب على المراقبة والقيود على شبكة الإنترنت.  ",
+        "description": ""
+    },
+    "user-guide-description": {
+        "message": "دليل مستخدم سايفون يظهر كيف تستعمل سايفون مع الموبايل ومنصات ويندوز ",
+        "description": "description for the user guide page"
+    },
+    "blog-index-nav-title": {
+        "message": "موقع التواصل Blog  الخاص بنا",
+        "description": "Text for the navigation bar link to the blog"
+    },
+    "about-get-latest-info-para-1-users-list": {
+        "message": "مجموعة مستخدمي برنامج سايفون",
+        "description": "text for link to the Psiphon Users mailing list"
+    },
+    "license-statement-of-limitations-of-liability-header": {
+        "message": "بيان حدود المسؤولية",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-10": {
+        "message": "ملاحظة: إذا حملت سايفون من متجر تطبيقات، كمتجر Google Play  أو متجر أمازون للتطبيقات، قد يجمع عنك المزيد من المعلومات من هذا المتجر.  هذا مثلا ما يمكن أن يجمعه عنك متجر Google Play: ",
+        "description": ""
+    },
+    "faq-nav-title": {
+        "message": "الأسئلة ألمتداولة",
+        "description": "text for the FAQ page navigation item"
+    },
+    "alert-heading": {
+        "message": "تحذير",
+        "description": "Heading of the alert that shows on the main page when there's a security or other concern that needs to be brought to the attention of users"
+    },
+    "license-personal-or-specified-use-para": {
+        "message": "إن هذاا البرنامج غير مخصص للبيع والربح المادي٬ وإنما يتم منحه تحت ترخيص شخصي غير مخصص للاحتكار. باستخدامك لبرنامج Psiphon فإنك موافق على استخدامه بصورة شخصية فقط وليس بغرض التنفع وتحقيق الأرباح المالية منه. ووفقا لذلك فإنه ليس بإمكانك تأجيره أو بيعه أو إعادة بيعه أو توزيعه بصورة تجارية تهدف لتحقيق أرباح مادية٬ أو بيعه أو تأجيره أو إعادة بيعه أوتوزيعه بصورة تجارية عبر وسيط بغرض تحقيق أرباح مادية.",
+        "description": ""
+    },
+    "faq-browser-compatibility-question": {
+        "message": "هل برنامج سايفون Psiphon المخصص لبرامج ويندوز Windows بالإمكان فتحه وتصفحه على برامج التصفح إنترنت إكسبلورر Internet Explorer وفايرفوكس Firefox و سفاري Safari وكروم Chrome؟",
+        "description": ""
+    },
+    "page-keyword-landing-page": {
+        "message": "الصفحة المقصودة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-authentic-android-answer-para-3": {
+        "message": "برنامج سايفون  Psiphon لأجهزة الأندرويد Android يقوم بعملية التحديث تلقائيا٬ والتي تضمن أيضا في نفس الوقت أنً  كلً تحديث يكون أصلي وموثوق به. ",
+        "description": ""
+    },
+    "main-gets-you-there-safely-head-2": {
+        "message": "هل تريد استخدام الإنترنت بشكل آمن خلال استخدامك للبث اللاسلكي الفائق الدقة WiFi العمومي؟ ",
+        "description": ""
+    },
+    "faq-authentic-android-question": {
+        "message": "هل نسختي من برنامج سايفون لنظام الأندرويد أصلية وموثوق بها؟",
+        "description": ""
+    },
+    "psiphon": {
+        "message": "برنامج Psiphon",
+        "description": "The name of the product. Probably not translated or transliterated for most languages"
+    },
+    "download-meta-title": {
+        "message": "قم بتنزيل تطبيق الأندرويد ووكيل الويندوز ",
+        "description": "meta title for the download page"
+    },
+    "user-guide-windows-para-1": {
+        "message": "قم بتحميل وتشغيل برنامج العميل Client Program. وعند تشغيله ستظهر لك نافذة خاصة بالأمان توضح أنً هذا البرنامج هو منتج أصلي وموثوق به من شركة سايفون المساهمة Psiphon Inc.",
+        "description": ""
+    },
+    "faq-authentic-windows-answer-para-2": {
+        "message": "شهادة البرنامج الصالحة للفترة من 2011-06-16 ولغاية 2012-06-21  لبصمة دالة هاش التشفيرية SHA1 هي:",
+        "description": ""
+    },
+    "what-is-psiphon-heading": {
+        "message": "ما هو برنامج سايفون؟",
+        "description": ""
+    },
+    "user-guide-nav-title": {
+        "message": "دليل المستخدم",
+        "description": "text for the user guide page navigation item"
+    },
+    "page-keyword-updates": {
+        "message": "التحديثات ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-authentic-windows-answer-para-3": {
+        "message": "شهادة البرنامج الصالحة للفترة من   2012-05-21 ولغاية 2014-07-30 لبصمة دالة هاش التشفيرية SHA1 هي:",
+        "description": ""
+    },
+    "faq-meta-title": {
+        "message": "الأسئلة الشائعة ",
+        "description": "meta title for the FAQ page"
+    },
+    "faq-ssh-plus-answer-para-1": {
+        "message": "يستخدم سايفون بروتوكول القشرة الآمنة SSH مضافٌ إليه طبقة مضافة إلى نظام SSH Handshake  تقوم بالتشويش لحماية الإتصال من بروتوكول التسجيل Fingerprinting. المزيد من المعلومات حول هذا البروتوكول تجدها&lt;a href=\"https://github.com/brl/obfuscated-openssh/blob/ca93a2c09cf0f6d2f80e7daca18a669045665a3b/README.obfuscation\">;هنا</a>;",
+        "description": ""
+    },
+    "license-title": {
+        "message": "اتفاقية ترخيص المستخدم لبرنامج سايفون",
+        "description": ""
+    },
+    "privacy-bulletin-description": {
+        "message": "بيانات الخصوصية ",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-annotation-1": {
+        "message": "مدة الإتصال",
+        "description": "annotation for an image of the Psiphon's statistics view, pointing to the connection duration"
+    },
+    "privacy-bulletin-entry-1-what-doing": {
+        "message": "نحن في طور تمكين  تسجيل الدخول access logging لموقع واحد أمازون Amazon S3 \"bucket\" (حاوية التخزين). (لأسباب تقنية، نشغل عدة نسخ من الموقع في S3 buckets مختلفة.)",
+        "description": ""
+    },
+    "open-source-para-4-list-start": {
+        "message": "أندرويد:",
+        "description": ""
+    },
+    "open-source-title": {
+        "message": "مفتوح المصدر",
+        "description": ""
+    },
+    "license-terms-of-use-para": {
+        "message": "بإستعمالك خدمة سايفون توافق على عدم  إستعماله بأية طريقة تخالف القانون الكندي، أو حقوق طرف ثالث. ",
+        "description": ""
+    },
+    "faq-configure-applications-question": {
+        "message": "كيف يمكنني تشكيل تطبيقات إلكترونية لكي أستخدم  المسار الآمن  (النفق) لسايفون ؟ ",
+        "description": ""
+    },
+    "page-keyword-circumvention": {
+        "message": "تجاوز الرقابة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "open-source-meta-title": {
+        "message": "مفتوح المصدر",
+        "description": ""
+    },
+    "privacy-bulletin-entry-2-why-doing": {
+        "message": " صفحة <a href=\"privacy.html\">سياسة الخصوصية</a> هي الآن المكان الوحيد الذي يحتاجه المستخدمون للإطلاع على سياسات سايفون للخصوصية وتجميع البيانات. لقد تم تحديثها لكي تعكس إستعمال الإعلانات، التحليلات، والتسجيل لبعض من مواقعنا.  ",
+        "description": ""
+    },
+    "license-para-1": {
+        "message": "إنً هذا البرنامج وكلً ما رافقه من ملكيًة فكرية هو ملك لشركة سايفون المسجلة رسميا في مقاطعة أونتاريو الكندية حيث يقع مقرها الرسمي. ",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-annotation-5": {
+        "message": "البيانات المستلمة تمً ضغطها من خلال برنامج سايفون",
+        "description": "annotation for an image of the Psiphon's statistics view, pointing to the savings in received data due to compression"
+    },
+    "user-guide-windows-head": {
+        "message": "برنامج سايفون لبرنامج التشغيل ويندوز Windows",
+        "description": "heading for the Android section of the User Guide"
+    },
+    "footer-copyright": {
+        "message": "حقوق النسخ والنشر",
+        "description": "The beginning of the 'Copyright 2013 Psiphon Inc.' footer text"
+    },
+    "privacy-bulletin-intro-para-1": {
+        "message": "طرق تجميع البيانات  التي نستخدمها توجد هنا  <a href=\"./faq.html#information-collected\">the FAQ</a>. في أي وقت نريد تغيير (زيادة) طريقة تجميع البيانات  مؤقتا، سنورد هنا ماذا نفعل وما هي النتائج المتوخاة من ذلك.",
+        "description": ""
+    },
+    "user-guide-title": {
+        "message": "كيفية استخدام برنامج سايفون Psiphon",
+        "description": "page title for the user guide page"
+    },
+    "faq-description": {
+        "message": "أجوبة للأسئله المتكررة حول برنامج سايفون ",
+        "description": "description for the FAQ page"
+    },
+    "faq-information-collected-answer-para-2-item-9": {
+        "message": "منصة العميل Client (قائمة مبسطة بأنظمة التشغيل - مثال: عميل مستخدم لمتصفح الإنترنت غير مفصًل) ",
+        "description": ""
+    },
+    "user-guide-android-image-3-annotation-5": {
+        "message": "افتح صفحة جديدة",
+        "description": "annotation for an image of the Psiphon built-in browser, pointing to the button that opens a new tab"
+    },
+    "download-via-email-description": {
+        "message": "في حالة منعك من تصفح موقعنا أو تحميل الروابط التي يحويها أو أنً جهات معينة تقوم في بلدك تقوم بمراقبتها٬ يمكنك أن تطلب الحصول عليها لتصلك في رسالة إلكترونية. ",
+        "description": ""
+    },
+    "download-via-email-head": {
+        "message": "التحميل من خلال رسالة إلكترونية",
+        "description": ""
+    },
+    "donate-body": {
+        "message": "بإمكانك مساعدة سايفون في توفير دخول مجاني للجميع لفضاء الإنترنت المفتوح . اختر أحد الخيارات التالية . ",
+        "description": "The body of the page section that shows the donation buttons"
+    },
+    "faq-information-collected-answer-para-13-item-3": {
+        "message": "حجم البريد الإليكتروني ",
+        "description": ""
+    },
+    "download-windows-direct": {
+        "message": "برنامج سايفون لبرنامج التشغيل ويندوز ",
+        "description": "text for link to Psiphon for Windows download"
+    },
+    "faq-information-collected-answer-para-8-item-3": {
+        "message": "سواء كان لجهاز هاتفك حساب مستخدم جذري أم لا",
+        "description": ""
+    },
+    "sponsor-para-2": {
+        "message": "سوف ترى الشعار الذي اخترته٬ والذي سيكون حلقة الوصل لصفحة على موقعك. إنها فرصة فريدة ستمكنك من التواصل مع عدد كبير من المختصين فنيًا وعلى دراية واسعة باستخدامات برنامج سايفون Psiphon وكيفية إضافة طبقة من الحماية والأمن لمتصفحي الإنترنت. ",
+        "description": ""
+    },
+    "faq-root-wdm-question-toc": {
+        "message": "What happened to whole device mode for rooted Android devices?",
+        "description": "This is a FAQ question. Previously, users with old Android devices could still tunnel the whole device if the device was rooted. This functionality was removed in December of 2015. This question/answer tells them about that and what they can do."
+    },
+    "faq-root-wdm-question": {
+        "message": "What happened to whole device mode for rooted Android devices?",
+        "description": "This is a FAQ question. Previously, users with old Android devices could still tunnel the whole device if the device was rooted. This functionality was removed in December of 2015. This question/answer tells them about that and what they can do."
+    },
+    "page-keyword-how-to": {
+        "message": "كيف ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "sponsor-description": {
+        "message": "أصبح راعي رسمي عبر الإعلان على صفحة  مقصودة، أو تبرع فرديا لمشروع سايفون ",
+        "description": "Page description for the Sponsorship page"
+    },
+    "about-get-latest-info-para-1-list-start": {
+        "message": "انضم لقائمتنا البريدية وتواصل معنا:",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-9": {
+        "message": "قد يقوم سايفون بين الفينة والآخرى بتسجيل معلومات إضافيه بهدف حل مشكله ما متعلقة بخدماتنا. ،عند حدوث هذا٫ سوف نقوم بنشر فقره جديده في <a href=\"./privacy-bulletin.html\">بيان الخصوصية </a> تصف ما تم تسجيله، ومدة حفظه وسببه.",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-when-doing": {
+        "message": "سيتم تمكين التسجيل من  2014-04-17T15:00Z to 2014-04-18T15:00Z.",
+        "description": ""
+    },
+    "nav-language-title": {
+        "message": "اختر لغتك",
+        "description": ""
+    },
+    "user-guide-android-para-4": {
+        "message": "متي ما كان هذا التطبيق متصلا بالشبكة فإنه سيبدأ بفتح المتصفح الذي هو من ضمن برنامج سايفون . برنامج سايفون لأجهزة الأندرويد  لا يقوم بتوجيه مسار البيانات والمعلومات تلقائيا نحو المتصفح الإفتراضي لنظام أندرويد  أو أية تطبيقات أخرى. إفتراضيا فإنً متصفح سايفون  هو الوحيد الذي يمر بمسار شبكة سايفون . ",
+        "description": ""
+    },
+    "user-guide-android-image-3-annotation-4": {
+        "message": "أضف الصفحة الحالية لقائمتك المفضلة",
+        "description": "annotation for an image of the Psiphon built-in browser, pointing to the button that bookmarks the current page"
+    },
+    "user-guide-windows-para-2": {
+        "message": "برنامج سايفون يُباشر تلقائيا بالربط عند تشغيله. وطوال فترة تشغيله تظهر على الشاشة أيقونة توضح ذلك. بإمكانك اختيار أحد أساليب المسارات الآتية: الشبكة الإفتراضية الخاصة L2TP over IPSec) VPN )٬ بروتوكول القشرة الآمنة SSH ٬ أو بروتوكول القشرة الآمنة بلس +SSH (والذي يحوي خاصية التشويش والتي تتكون من طبقة عشوائية مضافة إلى بروتوكول القشرة الآمنة لتجنب تسجيل بصمة البروتوكول).",
+        "description": ""
+    },
+    "faq-isp-traffic-answer-para-3": {
+        "message": "هناك أيضا تقنيات متطورة تستطيع معاينة حركة الإنترنت المشفرة وتحديد بعض الأشياء عنها كهوية الموقع الجاري تصفحه. مثل مهم لذلك هو  \"<a href=\"https://blog.torproject.org/blog/experimental-defense-website-traffic-fingerprinting\" target=\"_blank\">بصمة حركة مرور الإنترنت </a>\".",
+        "description": ""
+    },
+    "page-keyword-vpn": {
+        "message": "الشبكات الإفتراضية الخاصة (VPN)",
+        "description": "web page meta keyword used for SEO"
+    },
+    "page-keyword-partnerships": {
+        "message": "الشراكات",
+        "description": "web page meta keyword used for SEO"
+    },
+    "page-keyword-development": {
+        "message": "التطوير ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "blog-index-title": {
+        "message": "مدونة فريق العمل ",
+        "description": ""
+    },
+    "about-who-we-are-software-development-para-3": {
+        "message": "فريق تطوير البرمجيات لدى سايفون يسعى جاهدا لتقديم الأفضل، الأسرع والأسهل، والأكثر انفتاحا من بين الحلول المضادة للرقابة. نحن أيضا نستكشف مجالات جديدة أين بإمكان خبراتنا الحماية وتمكين وتحرير عقول المستخدمين في جميع أنحاء العالم.",
+        "description": ""
+    },
+    "page-keyword-windows": {
+        "message": "ويندوز ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "privacy-para-3": {
+        "message": "تمً تصميم برنامج سايفون Psiphon ليمكنك من تصفح الإنترنت ومحتوياته بشكل مفتوح ومن دون إيً تقييد. يرجي ملاحظة أنً برنامج سايفون Psiphon لن يرفع من مستوى خصوصيتك على الإنترنت٬ ولا يجب أن يُنظر إليه كذلك أو يستخدم كأداة حماية على الإنترنت.  ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-7-item-3": {
+        "message": "كيفية اتصالك بالإنترنت (على سبيل المثال، إذا كنت تستخدم اتصال انترنت عبر الهاتف الارضي أو اتصال عن طريق بروكسي)",
+        "description": ""
+    },
+    "main-pick-three-head-1": {
+        "message": "الثقة٬ السرعة٬ البساطة: اختر الثلاثة",
+        "description": ""
+    },
+    "about-who-we-are-software-development-head": {
+        "message": "تطوير البرمجيات",
+        "description": ""
+    },
+    "faq-connection-failed-answer-para-1": {
+        "message": "إن تكرًر ظهور الرسالة الآتية \"فشل الإتصال\" لديك فإنً ذلك يعني عدم توفر خوادم بإمكان وكيلك  التعرف عليها. حاول تحميل وكيل جديد لبرنامج سايفون.",
+        "description": ""
+    },
+    "faq-authentic-windows-image-alt": {
+        "message": "صورة توضح كيف يمكنك التأكد من التوقيع الإلكتروني وعلامة برنامج سايفون القابل للتنفيذ على برنامج التشغيل ويندوز",
+        "description": "alt text for an image"
+    },
+    "user-guide-android-ui-status-image-annotation-4": {
+        "message": "<span style=\"color:grey\">رمادي</span>: متصل<br><span style=\"color:red\">أحمر</span>: غير متصل<br><span style=\"color:Blue\">أزرق</span>: متصل",
+        "description": "annotation for an image of the Psiphon's status view, pointing to the colored status icon in the middle of the Status panel"
+    },
+    "privacy-bulletin-entry-item-head-why-doing": {
+        "message": "لماذا نعمل ذلك؟ ",
+        "description": ""
+    },
+    "generic-image-figcaption": {
+        "message": "أمور يجب ملاحظتها: ",
+        "description": "Displayed below image to draw attention to important features in the image. Usually hidden and in-image annotations are used instead."
+    },
+    "about-who-we-are-partners-para-2": {
+        "message": "واحدة من أنجح شراكاتنا هو مع <a href=\"https://asl19.org/\" target=\"_blank\"> ASL19 </ a> التي تقدم خدمات الترجمة إلى اللغة الفارسية والدعم، وكان لها دور أساسي في مساعدتنا في تنمية جمهورنا.",
+        "description": ""
+    },
+    "license-para-3": {
+        "message": "إنً هذا الإصدار من برنامج سايفون مخصص بشكل محدد للأفراد وللإستخدام الشخصي فقط. إن أردت استخدام برنامج سايفون لأيً غرض آخر أو كانت لديك متطلبات إضافية تتعلق به فإننا نوفر أيضا خدمة تجارية للبيع من برامج سايفون. للمزيد من المعلومات يرجى مراسلتناعلى العنوان التالي:\n <a href=\"mailto:sponsor@psiphon.ca\">sponsor@psiphon.ca</a>",
+        "description": ""
+    },
+    "resources-nav-title": {
+        "message": "المصادر",
+        "description": "title for the Resources"
+    },
+    "user-guide-windows-image-3-alt": {
+        "message": "صورة توضح أنً برنامج سايفون Psiphon متصل ببرنامج ويندوز Windows",
+        "description": "alt text for an image"
+    },
+    "blog-index-subscribe": {
+        "message": "إشترك ",
+        "description": ""
+    },
+    "page-keyword-donate": {
+        "message": "تبرع ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-android-enable-sideloading-answer-para-1": {
+        "message": "في حالة عدم امتلاكك لتطبيق محل ألعاب جوجل  يجب أن تمكن   \"<a href=\"https://en.wikipedia.org/wiki/Sideloading\" target=\"_blank\">sideloading <التحميل الجانبي /a>\". لفعل ذلك, إذهب إلى إعدادات اندرويد، ثم إلى قسم \"الأمن\"، ثم مكن \"المصادر المجهولة\".",
+        "description": "Please modify the 'en' in the Wikipedia domain to be language-specific"
+    },
+    "faq-isp-traffic-answer-para-4": {
+        "message": "إذا كنت ترغب  الحفاظ على المجهولية فعليك بإتخدم  <a href=\"https://www.torproject.org/\" target=\"_blank\">Tor</a> عوضا عن  Psiphon.",
+        "description": ""
+    },
+    "page-keyword-sponsor": {
+        "message": "راعي ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "nav-title": {
+        "message": "جولة لاستكشاف البرنامج",
+        "description": ""
+    },
+    "faq-authentic-windows-answer-para-4": {
+        "message": "إنً برنامج سايفون لنظام ويندوز يقوم بتحديث نفسه تلقائيا٬ وفي هذه العملية يتمً التحقق تلقائيا من مصداقية وشرعية كل تحديث. ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-3b": {
+        "message": "عناوين آي بي المستخدم لا تجمع من قبل خوادم سايفون في السير العادي للعملية. سايفون لا يطلب حسابات مستخدمين، فإذا، وبشكل إفتراضي، ليس هناك تجميع أو حفظ لعناوين بريد إلكتروني، أسامي مستخدمين، أو كلمات سر.",
+        "description": ""
+    },
+    "page-keyword-help": {
+        "message": "مساعدة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "about-who-we-are-partners-head": {
+        "message": "الشراكات",
+        "description": ""
+    },
+    "blog-index-description": {
+        "message": "وراء الكواليس مع فريق عمل سايفون ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-7-item-4": {
+        "message": "سعة الذاكرة الغير مستخدمة في جهاز حاسوبك",
+        "description": ""
+    },
+    "page-keyword-app-store": {
+        "message": "متجر التطبيقات (آبل ستور)",
+        "description": "web page meta keyword used for SEO"
+    },
+    "page-keyword-psiphon-team": {
+        "message": "فريق عمل سايفون ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-information-collected-answer-para-13-item-1": {
+        "message": "التاريخ والوقت الذي  تم تلقي البريد الإلكتروني ",
+        "description": ""
+    },
+    "user-guide-android-ui-status-image-annotation-1": {
+        "message": "برنامج سايفون Psiphon يعمل الآن على الشبكة الإفتراضية الخاصة VPN أو على نظام الجهاز بأكمله Whole Device. جميع التطبيقات تعمل عبر برنامج سايفون Psiphon. ",
+        "description": "annotation for an image of the Psiphon's status view, pointing to the Psiphon icon in the Android notification area"
+    },
+    "main-pick-three-para-1": {
+        "message": "منذ عام 2008  ساعد سايفون الملايين من الناس الذين يعيشون في بلدان تُقيًد فيها حرياتهم في الوصول إلى معلومات وأفكار تخضع للرقابة والحجب. والآن يستطيع سايفون مساعدتك أيضا. ",
+        "description": ""
+    },
+    "about-title": {
+        "message": "من نحنُ",
+        "description": "page title for the About page"
+    },
+    "faq-information-collected-answer-para-8-item-1": {
+        "message": "إصدار نظام التشغيل أندرويد Android",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-how-many-users": {
+        "message": "لا نعلم تحديدا عدد المستخدمين الذين سيتأثرون (هذه العملية  لأجل معرفة ذلك)، ولكن نتوقع أن العدد سيكون أقل من 10000 مستخدم.",
+        "description": ""
+    },
+    "download-windows-direct-description": {
+        "message": "يعمل على ويندوز أكس بي Windows XP وويندوز فيستا  Windows Vista وويندوز الإصدار السابع Windows 7 وويندوز الإصدار الثامن لأجهزة الحاسوب المكتبية Windows 8. ",
+        "description": ""
+    },
+    "license-termination-terms-of-service-violations-para-2": {
+        "message": "كمستخدم لك حرية إلغاء اتفاقية الترخيص License Agreement في أيً وقت تشاء من خلال عدم استخدام أيًا من مكونات برنامج سايفون Psipohn أو عدم استخدام البرنامج بأكمله ومسح جميع نماذج وطلبات تطبيقات البرنامج من جهازك.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-5": {
+        "message": "عدد الدورات ومدتها",
+        "description": ""
+    },
+    "faq-orig-file-purpose-question": {
+        "message": "ماهو ملف سايفُون 3  \"psiphon3.exe.orig\"؟",
+        "description": ""
+    },
+    "index-meta-title": {
+        "message": "تصفح الإنترنت بدون رقابة لويندوز وجهاز الموبايل ",
+        "description": "Meta title for the index page"
+    },
+    "faq-information-collected-answer-para-8-item-2": {
+        "message": "نوعيًة جهاز هاتفك",
+        "description": ""
+    },
+    "page-keyword-play-store": {
+        "message": "متجر جوجل بلاي",
+        "description": "web page meta keyword used for SEO"
+    },
+    "license-termination-terms-of-service-violations-header": {
+        "message": "إنهاء الخدمة؛ الشروط المتعلقة بانتهاكات الخدمة",
+        "description": ""
+    },
+    "user-guide-android-image-3-annotation-1": {
+        "message": "برنامج سايفون يعمل الآن",
+        "description": "annotation for an image of the Psiphon built-in browser, pointing out the status icon that shows that Psiphon is running"
+    },
+    "blog-index-posts-in-your-language": {
+        "message": "مشاركات بلغتك ",
+        "description": "TRANSLATORS NOTE: Please translate it as 'Posts in Farsi', 'Posts in Russian', etc. This is the heading for the list of blog posts that have been translated into the user's language."
+    },
+    "faq-isp-traffic-question": {
+        "message": "هل يمكن لمزود الإنترنت خاصتي رؤية ماذا أفعل عند إستخدامي سايفون؟",
+        "description": ""
+    },
+    "open-source-para-3-list-start": {
+        "message": "ويندوز :",
+        "description": ""
+    },
+    "download-now-button": {
+        "message": "قم بالتحميل الآن",
+        "description": "The text on the Download Now button"
+    },
+    "blog-index-posts-in-english": {
+        "message": "الملاحظات والتعليقات باللغة الإنجليزية",
+        "description": "Heading for the list of blog posts that are available in English"
+    },
+    "user-guide-android-para-3": {
+        "message": "عند البدء بتشغيل تطبيقات سايفون  فإنه وبشكل تلقائي سيبدأ الاتصال والربط مع شبكة سايفون . ",
+        "description": ""
+    },
+    "user-guide-android-ui-status-image-annotation-5": {
+        "message": "لإظهار أيً إصدار من برنامج سايفون Psiphon جاري إستخدامه حاليا ",
+        "description": "annotation for an image of the Psiphon's status view, pointing to the currently running Psiphon version number"
+    },
+    "open-source-nav-title": {
+        "message": "مفتوح المصدر",
+        "description": ""
+    },
+    "license-statement-of-limitations-of-liability-para": {
+        "message": "هذا البرنامج يُوزًع كما هو ومن دون أيًة ضمانات من أيً نوع كانت٬ ومن دون أيًة مسؤولية أيا كان نوعها سواء كانت ضمنية أو تعبيرية. برنامج سايفون يعلن تنصله من جميع الضمانات والمسؤوليات التي ترافق استخدام هذا البرنامج بما فيها: الإصابات الشخصية أو أيًة أضرار ناجمة عن أيً نوع من الحوادث المباشرة أو الغير مباشرة أو الإستثنائية٬ أو التبعية الشخصية أو التجارية٬ مهما كانت٬ ومن ضمنها فقدان البيانات والمعلومات والتوقف عن العمل.",
+        "description": ""
+    },
+    "faq-ip-change-question": {
+        "message": "لماذا عنوان بروتوكول الإنترنت  لبرنامج سايفون الخاص بي يتغير باستمرار؟",
+        "description": ""
+    },
+    "privacy-bulletin-meta-title": {
+        "message": "بيانات الخصوصية ",
+        "description": ""
+    },
+    "privacy-ontario-privacy-commissioner-link-text": {
+        "message": "مكتب مفوضية الخصوصية التابع لمقاطعة أونتاريو",
+        "description": ""
+    },
+    "about-who-we-are-ops-head": {
+        "message": "العمليات و التوعية",
+        "description": ""
+    },
+    "faq-information-collected-answer-head-4": {
+        "message": "متاجر التطبيقات ",
+        "description": "this is referring to the general idea of app stores, like the Google Play Store, Amazon AppStore, Apple App Store"
+    },
+    "privacy-bulletin-entry-item-head-what-doing": {
+        "message": "ماذا نعمل؟",
+        "description": ""
+    },
+    "main-gets-you-where-you-want-head-1": {
+        "message": "توصلك إلى حيثما ترغب...",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-14": {
+        "message": "إذا أردنا تشخيص مشكلة، يمكن أن نشغل \"التسجيل الكامل لخادم البريد\" full mail server logging لمدة قصيرة من الوقت. إذا بعثت بريد في هذا الوقت، سيكتب عنوان بريدك الإليكتروني في سجل النظام. هذه السجلات تمحى بعد  أسبوع. ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-4": {
+        "message": "كم مرة تُكتشف الخوادم الجديدة",
+        "description": ""
+    },
+    "open-source-para-1": {
+        "message": "برنامج سايفون هو مشروع مفتوح المصدر وغير مقيًد. بإمكانك إيجاد الشفرة البرمجية الكاملة للبرنامج و ملفات التصميم على صفحات المشروع: bitbucket و Github. ",
+        "description": "Paragraph on the Open Source page indicating that Psiphon is open source. It is followed by a list of links to our Bitbucket and Github project pages."
+    },
+    "main-gets-you-where-you-want-head-2": {
+        "message": " هل تمً تقييد حرية تصفح الإنترنت من قبل بلدك٬ شركتك أو المؤسسة التعليمة التي تدرس بها؟ ",
+        "description": ""
+    },
+    "page-keyword-download": {
+        "message": "تنزيل ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "what-is-psiphon-body-para-2": {
+        "message": "تمً تصميم برنامج سايفون ليمكنك من تصفح الإنترنت ومحتوياته بشكل مفتوح ومن دون إيًة قيود. يرجي ملاحظة أنً برنامج سايفون لن يرفع من مستوى خصوصيتك على الإنترنت٬ ولا يجب أن يُنظر إليه كذلك أو يستخدم كأداة حماية على الإنترنت.  ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-13-item-4": {
+        "message": "خادم البريد الذي أتى منه البريد الإلكتروني . (الأجزاء الثلاثة الأقل تحديدا لإسم  المجال. مثلا <code>ne1.example.com</code>, ولكن ليس  <code>web120113.mail.ne1.example.com</code>.)  ",
+        "description": ""
+    },
+    "page-keyword-manual": {
+        "message": "دليل ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "privacy-bulletin-entry-1-how-long-retained": {
+        "message": "ستحفظ البيانات لفترة لا تتعدى الأسبوع. سنحتفظ بتعداد المستخدمين لفترة أطول أو لانهائية.",
+        "description": ""
+    },
+    "privacy-information-collected-websites-head": {
+        "message": "مواقع ",
+        "description": "Sub-heading on the Privacy Policy page above the info about what user information is collected by the Psiphon websites"
+    },
+    "footer-license": {
+        "message": "مضمون الصفحة مرخص بالاستخدام تحت بند",
+        "description": "The beginning of the 'Licensed under [license name here]' footer text"
+    },
+    "open-source-para-2": {
+        "message": "يرجى من عملاء سايفون Psiphon استخدام عناصر المصدر المفتوح التالية.",
+        "description": ""
+    },
+    "download-android-playstore": {
+        "message": "برنامج سايفون  لأجهزة الأندرويد في المتجر الإفتراضي لجوجل Google Play Store",
+        "description": "text for link to Psiphon for Android in the Google Play Store"
+    },
+    "page-keyword-contact": {
+        "message": "تواصل معنا ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "download-title": {
+        "message": "تحميل برنامج سايفون ",
+        "description": "page title for the download page"
+    },
+    "faq-authentic-android-answer-para-1": {
+        "message": "كلً نسخة من برنامج سايفون  لعملاء أنظمة أندرويد تُرسل بصيغة ملف حزمة تطبيقات برامج أندرويد Android APK File ذو امتداد ينتهي بـ (\".apk\"). وتكون موقعة إلكترونيا وموثقة رسميا من قبل شركة سايفون المساهمة Psiphon Inc. المفتاح العام لشهادة شركة سايفون المساهمة Psiphon Inc هو:      ",
+        "description": ""
+    },
+    "download-android-direct": {
+        "message": "تحميل مباشر لبرنامج سايفون Psiphon  لأجهزة الأندرويد  Android",
+        "description": "text for link to Psiphon for Android direct download"
+    },
+    "page-keyword-home-page": {
+        "message": "الصفحة الرئيسية ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-information-collected-answer-para-6": {
+        "message": "عند اختيارك إرسال ملاحظاتك حول البرنامج من خلال سايفون Psiphon يرجى إرفاق بيانات ومعلومات التشخيص. هذه البيانات ستساعدنا في التعرًف على الأعطال التي قد تكون لديك وحلها. كما أنها ستساعدنا في الحفاظ على ديمومة تشغيل برنامج سايفون Psiphon بسلاسة لدى مستخدميه. إنً إرسال تلك البيانات والمعلومات أمر إختياري وليس إجباري. وسيتم تشفير تلك البيانات والمعلومات قبل إرسالها إلينا ومن قبلنا نحن فريق عمل سايفون فقط. قد تختلف تلك البينات والمعلومات من تطبيق إلى آخر حسب البرنامج٬ ولكن قد تضم: ",
+        "description": ""
+    },
+    "about-who-we-are-head": {
+        "message": "من نحن",
+        "description": ""
+    },
+    "faq-browser-compatibility-answer-para-1": {
+        "message": "نعم.  تحقق من أن إعدادات متصفحك في وضعية استخدام إعدادات بروكسي النظام.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-8-list-start": {
+        "message": "أندرويد:",
+        "description": ""
+    },
+    "faq-information-collected-answer-head-3": {
+        "message": "الرد التلقائي للبريد الإلكتروني ",
+        "description": ""
+    },
+    "download-android-amazon": {
+        "message": "سايفون لأنظمة الأندرويد  في متجر أمازون الإفتراضي Amazon AppStore",
+        "description": "text for link to Psiphon for Android in the Amazon AppStore"
+    },
+    "user-guide-windows-image-1-alt": {
+        "message": "صورة توضيحة للتحذير الذي يطلقة ويندوز حول برنامج سايفون القابل للتنفيذ",
+        "description": "alt text for an image"
+    },
+    "download-android-direct-description": {
+        "message": "في حالة عدم امتلاكك لتطبيق محل ألعاب جوجل  Google Play Store فبإمكانك تحميل التطبيق من خلال الرابط التالي (\"<a href=\"https://en.wikipedia.org/wiki/Sideloading\" target=\"_blank\">sideload</a>\") لتحميل برنامج سايفون Psiphon مباشرة لأجهزة الإندرويد Android ",
+        "description": ""
+    },
+    "page-keyword-user-guide": {
+        "message": "دليل المستخدم",
+        "description": "web page meta keyword used for SEO"
+    },
+    "about-meta-title": {
+        "message": "من نحنُ",
+        "description": "meta title for the About page"
+    },
+    "faq-information-collected-answer-para-13-item-2": {
+        "message": "التاريخ والوقت الذي  تم الرد فيه على طلب البريد الإلكتروني ",
+        "description": ""
+    },
+    "sponsor-banner-alt-text": {
+        "message": "شعار الراعي",
+        "description": "alt text for an image"
+    },
+    "faq-port-restrictions-answer-para-1": {
+        "message": "الإتصالات الصادرة من برنامج سايفون لبرامج وتطبيقات الشبكة الإفتراضية الخاصة VPN لبرامج الويندوز Windows بالإمكان إجرائها فقط عبر المنافذ Ports التالية: 53, 80, 443, 554, 1935, 7070, 8000, 8001, 6971-6999. للمزيد من المعلومات:  <a href=\"https://groups.google.com/group/psiphon3/browse_thread/thread/8a7f3c42c5dd89e1\">\nلن يكون باستطاعة عملاء البريد الإلكتروني إجراء أية اتصالات صادرة عبر منفذيْ 587 و 25 Ports\nللمزيد من المعلومات: <a href=\"https://groups.google.com/group/psiphon3/browse_thread/thread/2ef3a0af447ccd64\">",
+        "description": ""
+    },
+    "download-android-playstore-description": {
+        "message": "ملائم وصالح للعمل مع برامج أندرويد Android 2.2  وما هو أحدث. نظام الجهاز بأكمله Whole Device Mode يتطلب أن يكون برنامج أندرويد Android 4.0  وما هو أحدث من ذلك؛ أو حساب المستخدم للجهاز Rooted Device <a href=\"https://en.wikipedia.org/wiki/Android_rooting\" target=\"_blank\">",
+        "description": ""
+    },
+    "download-store-head": {
+        "message": "تنزيلات من الآب ستور (App Store)",
+        "description": "This refers to the Google Play Store, Amazon's AppStore, and any similar app stores"
+    },
+    "sponsor-meta-title": {
+        "message": "الرعاية، الإعلانات، والتبرعات ",
+        "description": "Page title for the Sponsorship page"
+    },
+    "faq-root-wdm-answer-para-2": {
+        "message": "If you require that functionality, you can use a “legacy” version of Psiphon for Android. That version will be lacking some of the advanced circumvention abilities of modern Psiphon, but it may be sufficient for your needs. You can <a href=\"https://s3.amazonaws.com/psiphon/legacy/PsiphonAndroidLegacy.apk\">download the “legacy” version here</a>.",
+        "description": "This is the second paragraph of a FAQ answer. Previously, users with old Android devices could still tunnel the whole device if the device was rooted. This functionality was removed in December of 2015. This question/answer tells them about that and what they can do."
+    },
+    "faq-check-version-question": {
+        "message": "كيف يمكنني التحقق من الإصدار الذي لديْ  لبرنامج سايفون Psiphon؟",
+        "description": ""
+    },
+    "site-title": {
+        "message": "سايفون Psiphon: حرّر شبكتك",
+        "description": "the title for the site"
+    },
+    "sponsor-header-sponsored-by": {
+        "message": "برعاية ",
+        "description": ""
+    },
+    "page-keyword-privacy": {
+        "message": "الخصوصية ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "faq-configure-applications-answer-para-1": {
+        "message": "سيقوم برنامج سايفون وبشكل تلقائي بتهيئة نظام جهازك لكي يعمل مع وكيل بروتوكول Local HTTP/HTTPS Proxy  ومع وكيل بروتوكول SOCKS Proxy. وستستخدم تطبيقات أنظمة ويندوز ٬وبشكل تلقائي أيضا٬ إعدادات وكيل النظام System Proxy Settings. كما بإمكانك تهيئة التطبيقات الأخرى يدويا لكي تستخدم الوكلاء المحليين الذين يعمل عليهم البرنامج Local Proxies . هذا وكلٌ من برنامج سايفون لنظام الويندوز (والذي يعمل بنظام بروتوكول القشرة الآمنة SSH) وبرنامج سايفون لنظام الأندرويد يُشغًلان هذان الوكيلين المحليين Local Proxies.",
+        "description": ""
+    },
+    "faq-vpn-protocol-answer-para-1": {
+        "message": "إنً برنامج سايفون  Psiphon يستخدم بروتوكول الشبكة الإفتراضية الخاصة L2TP/IPSec VPN. وقد لا يسمح نظام الحماية الخاص بشبكتك باستخدام بروتوكولات الشبكة الإفتراضية الخاصة VPNs. كما قد لا يسمح مرسل الإنترنت Router في بيتك بالمرور من خلال بروتوكول الشبكة الإفتراضية الخاصة VPN Protocol ؛ لذا يرجي التأكد من أنً إعدادات نظام الحماية الخاص بشبكتك تتيح التشغيل على بروتوكول IPSec أو بروتوكول L2TP.  قد تتعطل خدمات بروتوكول IPSec في نظام الإنترنت لديك؛ لذا يرجى التأكد من إعدادات الخدمة لديك والسماح لخدمة البروتوكول بالبدء في التشغيل تلقائيا. ",
+        "description": ""
+    },
+    "license-distribution-header": {
+        "message": "التوزيع",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-7-item-2": {
+        "message": "إصدار مضاد الفيروسات",
+        "description": ""
+    },
+    "sponsor-para-1": {
+        "message": "أيً شخص يقوم بتحميل برنامج سايفون Psiphon سوف يرى صفحة المدخل متى ما تمً اتصاله بالبرنامج وتطبيقاته. فرص الرعاية متاحة خلال الأسبوع على هذه الصفحة. ",
+        "description": ""
+    },
+    "faq-autoproxy-question": {
+        "message": "انا استخدم<a href=\"https://addons.mozilla.org/en-US/firefox/addon/autoproxy\">الوكيل التلقائي AutoProxy </a>. كيف بأمكاني ان امنع برنامج سايفون لنظام ويندوز من القيام بتشكيل وترتيب إعدادات وكيل النظام System Proxy في جهازي؟ ",
+        "description": ""
+    },
+    "privacy-information-collected-websites-google-analytics-para-3": {
+        "message": "قدرة غوغل على استخدام وتبادل المعلومات التي تم جمعها من قبل Google Analytics  حول زياراتك ل هذا الموقع مقيدة <a href=\"http://www.google.ca/analytics/terms/us.html\" target=\"_blank\">Google Analytics  شروط استخدام</a> و <a href=\"http://www.google.com/policies/privacy/\" target=\"_blank\">سياسة الخصوصية لجوجل </a> يمكنك إختيار إيقاف الإشتراك  بملفات تعريف الارتباط في إعدادات الخيارات في متصفحك.",
+        "description": ""
+    },
+    "faq-isp-traffic-question-toc": {
+        "message": "هل يمكن لمزود الإنترنت خاصتي رؤية ماذا أفعل عند إستخدامي سايفون؟",
+        "description": ""
+    },
+    "faq-vpn-dns-answer-para-1": {
+        "message": "برنامج سايفون يحظر مرور معلومات وبيانات نظام تسمية المجالات على الشبكة الإلكترونية DNS قبل أن تفحص من قبل خادمي نظام تسمية المجالات على الشبكة الإلكترونية DNS Servers وأن تكون على القائمة البيضاء White-Listed لديهم. إن كنت تستلم أخطاء تتعلق بنظام تسمية المجالات على الشبكة الإلكترونية DNS فيرجى التحقق من إعدادات خادم نظام تسمية المجالات على الشبكة الإلكترونية DNS Server لديك. المزيد من المعلومات حول ذلك موجودة   <a href=\"https://en.wikipedia.org/wiki/DNSChanger\">هنا</a>.",
+        "description": ""
+    },
+    "about-get-latest-info-head": {
+        "message": "إحصل على آخر المعلومات حول برنامج سايفون ",
+        "description": ""
+    },
+    "user-guide-windows-image-2-alt": {
+        "message": "صور توضيحية لعملية تشغيل برنامج سايفون Psiphon على نظام ويندوز ",
+        "description": "alt text for an image"
+    },
+    "faq-orig-file-purpose-answer-para-1": {
+        "message": "إنِ إجراءات التحديث التلقائية الخاصة ببرنامج سايفون Psiphon  لبرنامج ويندوز  تقوم بإعادة تسمية الإصدار القديم من البرنامج إلى \"psiphon3.exe.orig\". جميع الملفات التي تنتهي بـكلمة \".orig\" سيكون بالإمكان مسحها بصورة آمنة.",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-why-doing": {
+        "message": "نحن نفعل هذا لنحدد أعداد الدخول الموجودة لقائمة الخادم عن بعد \"remote server list\"  المخزنة في الدلو Bucket. هذا سيعطينا فكرة عن عدد المستخدمين الذين يفشلون بالإتصال. ",
+        "description": ""
+    },
+    "download-nav-title": {
+        "message": "تنزيل",
+        "description": "text for the Download page navigation item"
+    },
+    "about-who-we-are-exec-team-para-2": {
+        "message": "Karl Kathuria هو نائب رئيس الإدارة التجارية، وانضم مؤخرا للفريق في تورونتو بعد م كان في لندن. وهو مسؤول عن إدارة علاقات العمل مع شركائنا في البث والتوزيع، و هو كذلك مسؤول عن ايجاد فرص جديدة لأنشطة الشركة.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-2": {
+        "message": "عدد التحديثات",
+        "description": ""
+    },
+    "page-keyword-censorship": {
+        "message": "رقابة ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "blog-index-meta-title": {
+        "message": "صفحة Blog لفريق العمل سايفون Psiphon",
+        "description": ""
+    },
+    "user-guide-windows-para-4": {
+        "message": "في نظاميْ بروتوكول القشرة الآمنة SSH و بروتوكول القشرة الآمنة بلس +SSH يقوم برنامج سايفون Psiphon وبشكل تلقائي بضبط إعدادت وكيل نظام برامج ويندوز Windows Proxy والمعلومات والبيانات للتطبيقات التي تتماشي وتعمل مع مسار تلك الإعدادات عبر برنامج سايفون Psiphon. وستعمل تلك الإعدادات إفتراضيا مع جميع متصفحات الويب Web Browsers الرئيسية.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-13": {
+        "message": "لكل رسالة إلكترونية تصلنا نخزن المعلومات التالية:",
+        "description": ""
+    },
+    "page-keyword-advertise": {
+        "message": "لإعلاناتكم ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "privacy-bulletin-entry-item-head-who-will-see": {
+        "message": "من سيرى هذه المعلومات غير سايفون؟",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-alt": {
+        "message": "صورة توضح عمل برنامج سايفون Psiphon على أجهزة الأندرويد Android على جدول الإحصائيات",
+        "description": "alt text for an image"
+    },
+    "faq-information-collected-answer-head-1": {
+        "message": "سيرفرات سايفون ",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-who-will-see": {
+        "message": "سجلات الدخول محفوظة أيضا في دلو أمازون  (Amazon S3 bucket) وبذلك تستطيع أمازون الولوج إليها. (على أية حال أمازون تخدم الملفات وتستطيع الولوج إليها في في كل الحالات). ",
+        "description": ""
+    },
+    "faq-check-version-answer-para-1": {
+        "message": "عندما يبدأ برنامج سايفون بالعمل يقوم بعرض نسخة العميل Client Version في أول سطر للمعلومات الظاهرة ",
+        "description": ""
+    },
+    "user-guide-android-ui-status-image-annotation-2": {
+        "message": "تمً اختيار خيار إظهار الحالة",
+        "description": "annotation for an image of the Psiphon's status view, pointing to the highlighted Status tab"
+    },
+    "faq-authentic-android-answer-alert": {
+        "message": "<b>:تحذير</b> مؤخرا تم التبليغ  <a href=\"http://www.zdnet.com/google-releases-fix-to-oems-for-blue-security-android-security-hole-7000017782/\"> عن حالة حساسة قد تؤدي إلى قيام تطبيق التحقق من التطبيقات والملفات لدي برنامج أندرويد Android من التبليغ بشكل خاطئ عن ملف حزمة برنامج أندرويد الخبيث APKs على أنه صالح وموثوق به. ننصح مستخدمي البرنامج بتفعيل تطبيق جوجل للتحقق Google Verify App كما هو موضح <a href=\"https://support.google.com/accounts/answer/2812853?hl=en\">هنا</a>",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-what-data": {
+        "message": "التسجيل سيجمع عناوين الآي بي، عملاء المستخدم، وأوقات الدخول لموقع واحد. عندما يتم معالجات هذه البيانات، سيصبح عندنا تعداد المستخدمين، مقسمين على منطقة جغرافية، الذين نجحوا بالدخول إلى الملف المعني. ",
+        "description": ""
+    },
+    "page-keyword-http-proxy": {
+        "message": "وكيل  \"بروكسي\"  HTTP ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "about-nav-title": {
+        "message": "من نحنُ",
+        "description": "text for the About page navigation item"
+    },
+    "faq-information-collected-answer-para-2-item-3": {
+        "message": "كم مرة يتم استخدام كل بروتوكول ورموز الخطأ بعد فشل أيً عملية",
+        "description": ""
+    },
+    "privacy-para-1": {
+        "message": "شركة سايفون Psiphon تلتزم بحماية خصوصية زبائنها ومستخدمي برامجها وموزعي ومورًدي منتجاتها. سياسة الخصوصية هذه تعتزم منحك معلومات عامة حول الكيفية التي سيتم التعامل بها مع معلوماتك الشخصية. شركة سايفون هي شركة كندية مساهمة مقرها الرئيسي في مقاطعة أونتاريو٬ وسياسة الخصوصية لدينا تمً وضعها انعكاسا لقوانين وتشريعات الخصوصية للحكومة الكندية ومقاطعة أونتاريو.    ",
+        "description": ""
+    },
+    "license-termination-terms-of-service-violations-para-1": {
+        "message": "يحتفظ مصمموا برنامج سايفون بحقهم في التصرًف لوحدهم في إلغاء الترخيص الممنوح لك في أيً وقت بسبب أو من دون سبب٬ ومن دون أيًة غرامات أو عقوبات. باستخدامك لبرنامج سايفون فإنك توافق على عدم استخدامه بأيًة طريقة تخلً أوتنتهك شروط الخدمة واتفاقية الترخيص.",
+        "description": ""
+    },
+    "user-guide-android-image-3-annotation-3": {
+        "message": "إغلاق الصفحة الحالية",
+        "description": "annotation for an image of the Psiphon built-in browser, pointing to the button that closes the current tab"
+    },
+    "privacy-nav-title": {
+        "message": "سياسة الخصوصية",
+        "description": "text for the Privacy Policy page navigation item"
+    },
+    "sponsor-para-3": {
+        "message": "للمزيد من المعلومات يرجى مراسلتنا على البريد الإلكتروني <a href=\"mailto:sponsor@psiphon.ca\">sponsor@psiphon.ca</a>",
+        "description": ""
+    },
+    "privacy-bulletin-entry-1-title": {
+        "message": "2014-04-17: تمكين S3 bucket logging",
+        "description": ""
+    },
+    "user-guide-windows-para-5": {
+        "message": "إضافة إلى ذلك٬ فإنً برنامج سايفون Psiphon يوفًر٬ ضمن نظامي بروتوكول القشرة الآمنة SSH و بروتوكول القشرة الآمنة بلس +SSH ٬ خيارٌ لمسار منفصل  (نفق منفصل) تمر به الإتصالات والبيانات والمعلومات الدولية عبر الوكيل Proxy فقط ولا تمر فيه الاتصالات والبيانات والمعلومات المحلية. اختر خيار \"من دون الوكيل\" \"...Don't Proxy\" للسماح بفصل المسار. عند تفعيل هذا الخيار فإنً أيًة مجالات من دون وكيل Unproxied Domains سيتم الإبلاغ عنها في خانة الرسائل.",
+        "description": ""
+    },
+    "license-distribution-para": {
+        "message": "فقط عملاء البرامج  المنشأة  من شركة سايفون يسمح لهم إستعمال خدمة سايفون. يعتبر إستعمال أو توزيع عميل أو أداة طرف ثالث للإستخدام مع خدمة سايفون إنتهاك لهذه الرخصة.  ",
+        "description": ""
+    },
+    "user-guide-android-image-1-alt": {
+        "message": "الصورة توضح إعدادات نظام الأندرويد Android الخاصة بالسماح للتطبيقات التي لا توجد في المتجر الإفتراضي Non-Play Store.  ",
+        "description": "alt text for an image"
+    },
+    "page-keyword-contribute": {
+        "message": "شارك ",
+        "description": "web page meta keyword used for SEO"
+    },
+    "main-gets-you-where-you-want-para-1": {
+        "message": "بعد التعامل مع الأنظمة القمعية حول العالم٬ فإننا الأنسب٬ وبشكل فريد من نوعه٬ لمساعدتك على الحصول على المعلومات التي تريدها في أيً وقت وأيً مكان تختاره.",
+        "description": ""
+    },
+    "user-guide-android-para-verify-authentic": {
+        "message": "يجب أولا أن تتحقق من أنً  نسختك من برنامج سايفون لأجهزة الأندرويد Android أصلية وموثوق بها <a href=\"./faq.html#authentic-android\">",
+        "description": ""
+    },
+    "privacy-information-collected-s3-logging-para-2": {
+        "message": "S3 <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/dev/LogFormat.html\" target=\"_blank\">bucket access logs</a> يحتوي على عناوين أي بي، عملاء مستخدم، والطوابع الزمنية. هذه السجلات مخزنة في نفس S3، أمازون لديها قدرة الوصول لهذه السجلات. (على أية حال أمازون تخدم الملفات وتستطيع الولوج إليها في في كل الحالات). مطوري سايفون سينزلون السجلات، يقومون بتجميع وتحليل البيانات ، ومن ثم حذف السجلات. ستخزن  البيانات الخام لفترة تسمح فقط لتجميعها والان يتم مشاركتها مع طرف ثالث.",
+        "description": ""
+    },
+    "download-description": {
+        "message": "تنزيل مباشر ومجاني لسايفون على ويندوز وأندرويد ",
+        "description": "title for the download page"
+    },
+    "privacy-information-collected-websites-google-analytics-head": {
+        "message": "Google Analytics",
+        "description": "Sub-heading for section describing use of Google Analytics and what info they collect"
+    },
+    "download-direct-head": {
+        "message": "تنزيلات مباشرة ",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-2-item-1": {
+        "message": "عدد طلبات رسائل البريد الإلكتروني الخاصة برابط تحميل العميل ",
+        "description": ""
+    },
+    "faq-authentic-windows-answer-para-1": {
+        "message": "برنامج سايفون لأنظمة ويندوز لا يُوزًع أبدا على هيئة مجموعة من التطبيقات الجاهزة للحفظ والتثبيت على الأجهزة. فكلً وكيل لبرنامج سايفون لأنظمة ويندوز هو ملف بحدً ذاته قابل للتنفيذ يحمل هذا الإمتداد (\".exe\") والذي يحمل بصمة وتوقيع شركة سايفون  المساهمة Psiphon Inc إلكترونيا. وأنظمة ويندوز تقوم تلقائيا بالتأكد من هذه البصمة والتوقيع قبل تشغيل العميل Client من خلال طلب خصائص الملف والتحقق من مفتاح التوقيع الرقمي  Digital Signatures tab  . يمكنك أيضا فحص التوقيع يدويا قبل تشغيل الوكيل وذلك عبر إستدعاء  نص خصائص الملف  والتحقق من مفتاح التوقيع الرقمي. بصمة SHA1  لشهادة  المفتاح العلني لشركة سايفون موجود في معلومات الشهادة في مربع الحوار.     ",
+        "description": ""
+    },
+    "user-guide-windows-para-6": {
+        "message": "عند إغلاق البرنامج فإن سايفون يقوم تلقائيا بقطع الاتصال. كما يمكنك أيضا قطع الإتصال من خلال النقر على الأيقونة.",
+        "description": ""
+    },
+    "faq-information-collected-answer-para-1": {
+        "message": "نقوم بجمع البيانات التاليه لنعرف مدى جودة عمل سايفون:  ماهي المواقع ذات الشعبية العالية وما هي استراتيجيات النشر الفعالة. ويتم تقاسم هذه المعلومات مع شركاءنا ليتمكنوا من معرفة، مثلا، كم مرة تتم زيارة مواقعهم من خلال سايفون ومن أي بلدان.",
+        "description": ""
+    },
+    "user-guide-android-ui-statistics-image-annotation-4": {
+        "message": "البيانات المرسلة تمً ضغطها من خلال برنامج سايفون",
+        "description": "annotation for an image of the Psiphon's statistics view, pointing to the savings in sent data due to compression"
+    },
+    "user-guide-android-ui-logs-image-annotation-1": {
+        "message": "نشاط عمليات الدخول لبرنامج سايفون",
+        "description": "annotation for an image of the Psiphon's logs view, pointing to the logs"
+    }
+}

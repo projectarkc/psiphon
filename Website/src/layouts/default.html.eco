@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<% @document.language = 'en' if not @document.language %>
+
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="<%= @document.language %>"
+      data-android-download-path="<%- @relativeToRoot @downloads.android %>"
+      data-windows-download-path="<%- @relativeToRoot @downloads.windows %>">
+<![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="<%= @document.language %>"
+      data-android-download-path="<%- @relativeToRoot @downloads.android %>"
+      data-windows-download-path="<%- @relativeToRoot @downloads.windows %>">
+<![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="<%= @document.language %>"
+      data-android-download-path="<%- @relativeToRoot @downloads.android %>"
+      data-windows-download-path="<%- @relativeToRoot @downloads.windows %>">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="<%= @document.language %>"
+      data-android-download-path="<%- @relativeToRoot @downloads.android %>"
+      data-windows-download-path="<%- @relativeToRoot @downloads.windows %>">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+     More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Our site title and description -->
+  <title><%= @getPreparedMetaTitle() %></title>
+  <meta name="description" content="<%= @getPreparedDescription() %>">
+  <meta name="keywords" content="<%= @getPreparedKeywords() %>">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <!-- And: http://getbootstrap.com/css/ -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="<%= @document.pathToRoot %>/images/icons/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<%= @document.pathToRoot %>/images/icons/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<%= @document.pathToRoot %>/images/icons/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<%= @document.pathToRoot %>/images/icons/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="<%= @document.pathToRoot %>/images/icons/apple-touch-icon-57-precomposed.png">
+
+  <!-- Shims: IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script async src="<%= @relativeToRoot '/vendor/html5shiv.js' %>"></script>
+  <![endif]-->
+
+  <!-- Styles -->
+  <%- @getBlock('styles').add(@document.pathToRoot+style for style in @site.styles).toHTML() %>
+</head>
+
+<body lang="<%= @document.language %>" dir="<%= if @document.language in @rtl_languages then 'rtl' else 'ltr' %>" <%- 'style="direction: rtl"' if @document.language in @rtl_languages %>>
+
+  <%-@partial('nav.html', @)%>
+
+  <div class="container">
+
+    <%-@partial('header.html', @)%>
+
+    <!-- CONTENT -->
+    <section id="content" class="content">
+      <%- @content %>
+    </section>
+    <!-- /CONTENT -->
+
+    <%-@partial('footer.html', @)%>
+
+  </div><!-- /container -->
+
+  <!-- Scripts -->
+  <script>
+    // Make this value available to other scripts.
+    var PATH_TO_ROOT = "<%= @document.pathToRoot %>";
+  </script>
+  <!-- We need to disable "defer" in order to work in IE8 -->
+  <%- @getBlock('scripts').add(script for script in @site.externalScripts, {defer:false, async:false}).toHTML() %>
+  <%- @getBlock('scripts').add(@document.pathToRoot+script for script in @site.scripts, {defer:false, async:false}).toHTML() %>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "name": "psiphon-circumvention-system-website",
+  "version": "0.0.1",
+  "description": "Website for Psiphon. Based on Twitter Bootstrap skeleton for DocPad.",
+  "homepage": "http://psiphon3.com",
+  "keywords": [
+    "censorship",
+    "circumvention",
+    "psiphon",
+    "open internet"
+  ],
+  "author": "Psiphon Inc.",
+  "repository": {
+    "type": "hg",
+    "url": "ssh://hg@bitbucket.org/psiphon/psiphon-circumvention-system"
+  },
+  "engines": {
+    "node": ">=0.10",
+    "npm": ">=2"
+  },
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "docpad": "6.x",
+    "docpad-plugin-coffeescript": "2.x",
+    "docpad-plugin-eco": "2.x",
+    "docpad-plugin-highlightjs": "2.x",
+    "docpad-plugin-less": "2.x",
+    "docpad-plugin-marked": "2.x",
+    "docpad-plugin-partials": "2.x",
+    "docpad-plugin-related": "2.x",
+    "docpad-plugin-text": "2.x"
+  },
+  "devDependencies": {
+  },
+  "main": "node_modules/docpad/bin/docpad-server",
+  "scripts": {
+    "start": "node_modules/docpad/bin/docpad-server"
+  }
+}

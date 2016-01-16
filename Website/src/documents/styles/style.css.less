@@ -1,0 +1,326 @@
+@import "../../files/vendor/twitter-bootstrap/less/mixins";
+@import "../../files/vendor/twitter-bootstrap/less/variables";
+@import "../../files/vendor/twitter-bootstrap/less/responsive-utilities";
+@import "../../files/vendor/twitter-bootstrap/less/type";
+@import "../../files/vendor/twitter-bootstrap/less/utilities";
+@import "../../files/vendor/twitter-bootstrap/less/grid";
+@import "../../files/vendor/twitter-bootstrap/less/panels";
+@import "_rtl-support";
+@import "_annotations";
+
+body {
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+h2 {
+  color: rgb(182, 102, 0);
+}
+
+
+//
+// Navbar
+//
+
+.navbar {
+  @brandImgSpace: 85px;
+
+  .navbar-brand-name {
+    font-size: 2.5em;
+
+    body[dir="ltr"] & {
+      padding-left: @brandImgSpace;
+      margin-right: 5px;
+    }
+
+    body[dir="rtl"] & {
+      padding-right: @brandImgSpace;
+      margin-left: 5px;
+    }
+  }
+
+  .navbar-nav {
+    font-size: 1.5em;
+  }
+
+  .navbar-brand-img {
+    // This is to keep the image above the expanded nav items
+    z-index: 999;
+
+    padding: 0;
+    position: absolute;
+    top: 5px;
+
+    body[dir="ltr"] & {
+      left: 5px;
+    }
+
+    body[dir="rtl"] & {
+      right: 5px;
+    }
+
+    img {
+      height: (@navbar-height * 1.2);
+    }
+  }
+
+  // If Javascript is disabled in the browser, some extra effort is needed to make
+  // the collapsed navbar work. ("work" := go to the nav.html page)
+  .navbar-collapse-noscript {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+}
+
+//
+// Index page hero image+text
+//
+
+.index-splash {
+  h1 {
+    font-size: 50px; // only used if no JS or old IE
+    font-variant: small-caps;
+    font-weight: 700;
+    margin-top: 0;
+  }
+
+  .slab-main {
+    letter-spacing: 0px !important;
+    color: @brand-secondary;
+  }
+
+  a {
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+  }
+
+  img {
+    max-height: 150px;
+  }
+}
+
+.panel-heading h2 {
+  color: inherit; /* Use the heading color set in variables.less */
+}
+
+//
+// Index page sponsor snippet
+//
+
+#sponsor-snippet-container {
+  margin-bottom: 1em;
+
+  .caja-vdoc-wrapper {
+    overflow: hidden !important;
+  }
+}
+
+/*
+ * FAQ page
+ */
+
+.faq-qa {
+  margin-top: 3em;
+  border-top: thin lighten(@text-color, 60%) solid;
+}
+
+.faq-question {
+  .make-rtl-md-col(0, 3, 9);
+}
+
+.faq-answer {
+  .make-rtl-md-col(3, 9, 0);
+}
+
+/*
+ * Download page
+ */
+
+.download-item {
+  .panel;
+  .panel-default;
+  padding: 1em;
+
+  img {
+    .img-responsive;
+    max-height: 5em;
+  }
+}
+
+.download-head {
+  .make-sm-column(12);
+}
+
+@media (max-width: @screen-xs-max) {
+  .download-os, .download-os-with-qr {
+    .make-rtl-xs-col(0, 4, 8);
+  }
+
+  .download-link, .download-link-with-qr {
+    .make-rtl-xs-col(4, 8, 0);
+  }
+
+  .download-qr {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-sm) {
+  .download-os, .download-os-with-qr {
+    .make-rtl-sm-col(0, 2, 10);
+  }
+
+  .download-link{
+    .make-rtl-sm-col(2, 10, 0);
+  }
+
+  .download-link-with-qr {
+    .make-rtl-sm-col(2, 8, 2);
+  }
+
+  .download-qr {
+    .make-rtl-sm-col(10, 2, 0);
+  }
+}
+
+.download-list-join {
+  margin-bottom: 2em;
+}
+
+.user-guide img {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+pre.highlighted {
+  // Bootstrap adds a background colour that we need to clear so that the
+  // syntax highlighting styles look right.
+  background-color: transparent;
+}
+
+.sponsor-info .sponsored-by {
+  font-size: 1.0em;
+}
+
+.sponsor-info .sponsor-banner img {
+  max-height: 100px;
+  margin: auto;  // Center image
+}
+
+.sponsor-info .sponsor-separator {
+  width: 80%;
+}
+
+.donate-buttons {
+  padding-top: 1em;
+}
+
+.donate-button {
+  // This is based on the sized forced by the Bitcoin button
+  height: 50px;
+}
+
+.donate-cryptocoin {
+  margin-bottom: 1em;
+
+  .donate-cryptocoin-name {
+    .make-rtl-sm-col(0, 4, 8);
+    font-size: 1.2em;
+
+    > span {
+      vertical-align: text-top;
+    }
+
+    // The cryptocoin name is right aligned, so the names and addresses
+    // look nice.
+    .text-right();
+    body[dir="rtl"] & {
+      // Reverse if RTL
+      .text-left;
+    }
+
+    // When the column collapses on XS screens, just align normally.
+    @media (max-width: @screen-xs-max) {
+      .text-left();
+      body[dir="rtl"] & {
+        .text-right;
+      }
+    }
+  }
+
+  .donate-cryptocoin-address {
+    .make-rtl-sm-col(4, 8, 0);
+    font-family: @font-family-monospace;
+  }
+
+  .donate-cryptocoin-qr {
+  }
+}
+
+footer {
+  margin-top: 2em;
+  font-size: 0.8em;
+}
+
+.blog-post-title {
+  font-size: 1.5em;
+}
+
+.blog-post-info {
+  margin-bottom: 1em;
+}
+
+.blog-index-subscribe {
+  margin-bottom: 1em;
+
+  img {
+    height: 1.3em;
+    vertical-align: text-bottom;
+  }
+}
+
+/*
+ * Privacy bulletin
+ */
+
+.bulletin-entry {
+  margin-top: 3em;
+  border-top: thin lighten(@text-color, 60%) solid;
+}
+
+.bulletin-entry-title-container {
+  .row();
+}
+
+.bulletin-entry-title {
+  .make-rtl-md-col(0, 12, 0);
+}
+
+.bulletin-entry-item {
+  .row();
+  margin-bottom: 0.5em;
+}
+
+.bulletin-entry-item-head {
+  .make-rtl-sm-col(0, 3, 9);
+  .text-right-rtl(@screen-xs-max);
+  font-weight: bold;
+}
+
+.bulletin-entry-item-body {
+  .make-rtl-sm-col(3, 9, 0);
+}
+
+
+/*
+ * Helpers for dealing with equal-height columns
+ */
+@media (max-width: @screen-sm-max) {
+  .equal-height-md {
+    height: inherit !important;
+  }
+}
